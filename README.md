@@ -40,6 +40,8 @@ This folder stores the projects developed during the laboratory classes.
 
 This folder contains both the codes and the projects created during the laboratory classes, along with their respective reports.
 
+---
+
 ## Author
 
 ### [Matheus Fonseca](https://github.com/matheusAFONSECA)
